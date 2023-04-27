@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilan Vaks</h1>
 <h3 align="center">Im interested in software and ios development</h3>
-![codingGIF](https://user-images.githubusercontent.com/128378594/234737689-869a6582-031f-472f-8bba-73a474543de1.gif)
+
+![codingGIF](https://user-images.githubusercontent.com/128378594/234737766-38bdda50-0cb0-4912-9b8e-ee97dc2b416a.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanvaks&label=Profile%20views&color=0e75b6&style=flat" alt="ilanvaks" /> </p>
