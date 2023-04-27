@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ilan Vaks</h1>
 <h3 align="center">Im interested in software and ios development</h3>
 
+![gitHUB](https://user-images.githubusercontent.com/128378594/234737284-3a6ee044-e70e-47b0-9115-10b12e482fbd.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanvaks&label=Profile%20views&color=0e75b6&style=flat" alt="ilanvaks" /> </p>
 
 - 📫 How to reach me **ilanvaks@gmail.com**
