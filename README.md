@@ -3,7 +3,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilanvaks&show_icons=true&locale=en" alt="ilanvaks" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanvaks&label=Profile%20views&color=0e75b6&style=flat" alt="ilanvaks" /> </p
-  ><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ilanvaks&" alt="ilanvaks" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ilanvaks&" alt="ilanvaks" /></p>
 
 - 📫 How to reach me **ilanvaks@gmail.com**
 
