@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilanvaks&" alt="ilanvaks" /></p>
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilanvaks&theme=github_dark&layout=compact" width="800" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilanvaks&theme=github_dark&layout=compact" width="800" alt="languages graph"  />
     
