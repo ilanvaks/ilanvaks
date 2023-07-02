@@ -15,7 +15,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilanvaks&show_icons=true&locale=en" alt="ilanvaks" /></p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ilanvaks&theme=codestackr&mode=weekly&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilanvaks&theme=codestackr&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilanvaks&theme=github_dark&layout=compact" width="800" alt="languages graph"  />
     
