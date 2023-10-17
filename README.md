@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilan Vaks</h1>
-<h3 align="center">Im interested in software and ios development</h3>
+<h3 align="center">Im a software/data engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanvaks&label=Profile%20views&color=0e75b6&style=flat" alt="ilanvaks" /> </p> -->
 
